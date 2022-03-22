@@ -1,0 +1,91 @@
+
+
+input{
+	border: 1px solid black;
+    border-radius: .25rem;
+}
+
+textarea{
+	border: 1px solid black;
+    border-radius: .25rem;
+
+}
+
+
+#enviar{
+	margin-top:10px;
+	width: 90px;
+	background: #37e;
+	color: #fff;
+	border: 0px;
+}
+
+div.formulario{ 
+	width: 600px;
+    height: 420px;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px;
+    border-radius: .25rem;
+    background-color: #cce5ff;
+	border-color: #b8daff;
+	margin: auto;
+	margin-bottom: 2rem;
+}
+
+
+body{
+	background-color: #A2C8E9;
+}
+
+div.cuerpo{
+	padding: 10px;
+}
+
+h1{
+	color: #044174;
+}
+h3{
+	color:#044174;
+}
+
+
+a.head{
+	color: #b3b9be;
+}
+a.head:hover{
+	color: #bfcbd9;
+}
+
+
+
+
+section.jumbotron.text-center{
+	background-color: #447FB0;
+}
+
+.bg-light {
+    background-color: #A2C7E9!important;
+}
+
+div.card{
+	background-color: #A2C7E9;
+	margin-bottom: 0px;
+}
+div.card-header{
+	background-color: #447FB0;
+}
+li.list-group-item {
+    background-color: #A2C7Ef;
+}
+
+.header{
+	background-color: #A2C7E9;
+	margin-top:-21px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding: 10px;
+	text-align: center;
+}
+
+
